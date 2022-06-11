@@ -1,0 +1,54 @@
+/* 
+        Howdy! 
+        This is your styling page (css: casscading style sheet)
+        
+        This is a comment. Outside of this section, you will add
+        specific styles to add some pizzaz to your website.
+ */
+
+ body {
+        background-image: url('img/Moon\ High\ Def.webp');
+        height: 100%;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-size: 100%;
+    }
+    .name {
+       font-size: 60px;
+       color: white;
+       padding-top: 5%;
+       padding-bottom: 0%;
+       font-family: 'Times New Roman', sans-serif;
+   }
+   
+   .backtext {
+           font-family: 'Open Sans', sans-serif;
+           font-size: 40px;
+           color:white;
+           font-family: 'Times New Roman', sans-serif;
+           margin: 0;
+   }
+
+   /* footer */
+   footer{
+       color: white;
+       padding-top: 20px;
+       position: fixed;
+       left: 0%;
+       bottom: 0%;
+       width: 100%;
+   }
+   .social a{
+       font-size: 45px;
+   }
+   .fa-facebook{
+       color: #3b5998;
+   }
+   .fa-twitter{
+       color: #00acee;
+   }
+   .fa-instagram{
+       color: #517fa4;
+   }
+
